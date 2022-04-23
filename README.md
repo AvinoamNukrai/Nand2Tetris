@@ -6,5 +6,5 @@ can be built on any personal computer using a simple Hardware Description Langua
 and a supplied Hardware Simulator.
 
 The softwaresub- projects(6-12):
-(assembler, virtual machine, and compiler for a simple object-based language) can be developed in any programming language,
-using the project materials available in this site. A basic OS is also built, using the high-level language designed in the course.
+(assembler, virtual machine, and compiler for a simple object-based language),
+using the project materials available in the site. A basic OS is also built, using the high-level language designed in the course.
